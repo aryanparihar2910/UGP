@@ -8,6 +8,7 @@
 > Allocation of various relief supplies in the flood hit areas of Assam using data obtained by IMD, DFO and EM-DAT
 # Missing Data
 Initially we had lot of missing data which we had to extract from the extent and description column given in our dataset of Indian Flood Inventory. We used various techniques to fulfill this data to get more insight of the floods' impact in Assam.
+
 <img width="613" alt="Screenshot 2024-07-08 at 1 07 44 PM" src="https://github.com/aryanparihar2910/UGP/assets/116455750/605bee4f-0866-4fd9-984b-c660f7bbdba7">
 <img width="649" alt="Screenshot 2024-07-08 at 1 09 47 PM" src="https://github.com/aryanparihar2910/UGP/assets/116455750/d903be3e-a444-42fa-bc8e-0ee1593e7c12">
 
@@ -24,15 +25,11 @@ This was the correlation matrix plotted between all available columns of the dat
 <img width="658" alt="Screenshot 2024-07-08 at 1 12 45 PM" src="https://github.com/aryanparihar2910/UGP/assets/116455750/32322996-2022-4b63-8452-84ba9f36a2e8">
 
 
-## Author
+## Authors
 
-👤 **Aryan Parihar, Ashutosh Thakur, Kushagr Kapoor, Tushar Shingane**
 
-* Github: [@aryanparihar2910](https://github.com/aryanparihar2910)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+- [@Aryan Parihar](https://github.com/aryanparihar2910)
+- [@Ashutosh Thakur](https://github.com/ashutoshthakur454)
+- [@Kushagr Kapoor](https://github.com/Kush-316)
+- [@Tushar Shingane](https://github.com/Tushar2930)
