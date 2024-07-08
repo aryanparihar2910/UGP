@@ -11,7 +11,7 @@
 
 👤 **Aryan Parihar, Ashutosh Thakur, Kushagr Kapoor, Tushar Shingane**
 
-* Github: [@aryanparihar2910, ashutoshthakur454](https://github.com/aryanparihar2910, ashutoshthakur454)
+* Github: [@aryanparihar2910](https://github.com/aryanparihar2910)
 
 ## Show your support
 
